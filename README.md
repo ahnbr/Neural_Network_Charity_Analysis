@@ -45,3 +45,5 @@
 
 
 ## Summary
+
+- The best accuracy score we were able to provide was ~72.7%, which unfortunately fell below the target expectation of 75%+. In our initial analysis, we dropped 2 columns - EIN and Names - and it's possible that removing or binning data would allow us to provide a more accurate model. I think some adjustments to the number of nodes and neurons could likely have a beneficial outcome but even more data would certainly provide a much more likelihood of creating a more accurate model.
