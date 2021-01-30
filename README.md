@@ -30,6 +30,18 @@
 
 <img width="752" alt="Screen Shot 2021-01-30 at 12 28 09 AM" src="https://user-images.githubusercontent.com/68168883/106348154-0c893d00-6292-11eb-8a16-051b674a1fbc.png">
 
+**What steps did you take to try and increase model performance?**
+- We tried several different methods in order to increase model performance. The first was to use the Random Forest Classifier but this did not help us achieve the target and produced less accuracy than our original model. 
+
+<img width="752" alt="Screen Shot 2021-01-30 at 12 30 29 AM" src="https://user-images.githubusercontent.com/68168883/106348216-95a07400-6292-11eb-8ff8-076d85b2ce21.png">
+
+- The next step included increasing the number of neurons in our 2 hidden nodes as well as more epochs. The results returned similar results as our original model.
+
+<img width="752" alt="Screen Shot 2021-01-30 at 12 30 53 AM" src="https://user-images.githubusercontent.com/68168883/106348246-cd0f2080-6292-11eb-8eaa-6fd15dae4820.png">
+
+- The third step included adding an addition node to 3 nodes and reducing the number of epochs in order to avoid potentially oversampling the data. These results also returned similar results to our original model.
+
+<img width="750" alt="Screen Shot 2021-01-30 at 12 31 27 AM" src="https://user-images.githubusercontent.com/68168883/106348252-d0a2a780-6292-11eb-982d-d9ea2f2a97b1.png">
 
 
 ## Summary
