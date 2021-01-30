@@ -26,7 +26,10 @@
 <img width="752" alt="Screen Shot 2021-01-30 at 12 24 17 AM" src="https://user-images.githubusercontent.com/68168883/106348092-8f5dc800-6291-11eb-87d7-1e43b49f0ca6.png">
 
 **Were you able to achieve the target model performance?**
-- The target for this analysis was to achieve 75% of better for this particular model. Unfortunately, we were not able to achieve that goal, coming in at 72.4%. This meant we would have to make adjustments to our approach to hit our target.
+- The target for this analysis was to achieve 75% of better for this particular model. Unfortunately, we were not able to achieve that goal, coming in at ~72.5%. This meant we would have to make adjustments to our approach to hit our target.
+
+<img width="752" alt="Screen Shot 2021-01-30 at 12 28 09 AM" src="https://user-images.githubusercontent.com/68168883/106348154-0c893d00-6292-11eb-8a16-051b674a1fbc.png">
+
 
 
 ## Summary
